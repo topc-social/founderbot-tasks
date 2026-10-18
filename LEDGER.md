@@ -12,6 +12,8 @@ Units: 1 Neki = 1 rupee of work at market price (what a competent mid-level free
 | 4 | 2026-10-11 | Kamal Khatwani | Founderbot guided-form version (17 Apr 2026, kamal0808/founderbot-v2): analyse an idea against the YC rubric and strengthen it step by step. Anchor C3 | 6,500 | provisional | https://github.com/kamal0808/founderbot-v2 |
 | 5 | 2026-10-18 | Kamal Khatwani | Idea (1%) for #9: Retire Founderbot's web app from ideato.social | 65 | provisional | https://github.com/kamal0808/ideato/pull/110 |
 | 6 | 2026-10-18 | Kamal Khatwani | Work (99%) on #9: Retire Founderbot's web app from ideato.social | 6,435 | provisional | https://github.com/kamal0808/ideato/pull/110 |
+| 7 | 2026-10-18 | Kamal Khatwani | Idea (1%) for #10: All of Founderbot in one repo | 30 | provisional | https://github.com/topc-social/founderbot-tasks/issues/10 |
+| 8 | 2026-10-18 | Kamal Khatwani (via Claude) | Work (99%) on #10: All of Founderbot in one repo | 2,970 | provisional | https://github.com/topc-social/founderbot-tasks/issues/10 |
 
 ## Row 2 breakdown (rate card v2, 2026-10-11)
 
