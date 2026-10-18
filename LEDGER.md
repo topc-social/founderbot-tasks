@@ -10,6 +10,8 @@ Units: 1 Neki = 1 rupee of work at market price (what a competent mid-level free
 | 2 | 2026-10-11 | Kamal Khatwani | Correction to row 1: Founderbot was built from mid-2025 with AI, so it's repriced on rate card v2 (work done with AI), 15,55,000 → 3,32,500 (breakdown below) | −12,22,500 | provisional | |
 | 3 | 2026-10-11 | Kamal Khatwani | Founderbot v1 (Jun–Jul 2025, kamal0808/founderbot, launched 10 Jul): landing page with 16 animated founder scenes and waitlist, chat co-pilot with LangGraph agent, tools, MCP client and cards. D3 + C3 + C2 + C4 + 2 × C3 | 65,000 | provisional | https://github.com/kamal0808/founderbot |
 | 4 | 2026-10-11 | Kamal Khatwani | Founderbot guided-form version (17 Apr 2026, kamal0808/founderbot-v2): analyse an idea against the YC rubric and strengthen it step by step. Anchor C3 | 6,500 | provisional | https://github.com/kamal0808/founderbot-v2 |
+| 5 | 2026-10-18 | Kamal Khatwani | Idea (1%) for #9: Retire Founderbot's web app from ideato.social | 65 | provisional | https://github.com/kamal0808/ideato/pull/110 |
+| 6 | 2026-10-18 | Kamal Khatwani | Work (99%) on #9: Retire Founderbot's web app from ideato.social | 6,435 | provisional | https://github.com/kamal0808/ideato/pull/110 |
 
 ## Row 2 breakdown (rate card v2, 2026-10-11)
 
