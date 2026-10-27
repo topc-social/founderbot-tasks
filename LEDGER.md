@@ -20,6 +20,8 @@ Units: 1 Neki = 1 rupee of work at market price (what a competent mid-level free
 | 12 | 2026-10-26 | Kamal Khatwani (via Claude) | Work (99%) on #14: distribution.founderbot.ai: app screens on mock data | 2,970 | provisional | https://github.com/topc-social/founderbot-tasks/issues/14 |
 | 13 | 2026-10-26 | Kamal Khatwani | Idea (1%) for #15: distribution.founderbot.ai: accounts, saved plans and an AI connector | 130 | provisional | https://github.com/topc-social/founderbot-tasks/issues/15 |
 | 14 | 2026-10-26 | Kamal Khatwani (via Claude) | Work (99%) on #15: distribution.founderbot.ai: accounts, saved plans and an AI connector | 12,870 | provisional | https://github.com/topc-social/founderbot-tasks/issues/15 |
+| 15 | 2026-10-27 | Kamal Khatwani | Idea (1%) for #16: Find the biggest market for a "company brain" Founderbot | 105 | provisional | https://github.com/topc-social/founderbot-tasks/issues/16 |
+| 16 | 2026-10-27 | Kamal Khatwani (via Claude) | Work (99%) on #16: Find the biggest market for a "company brain" Founderbot | 10,395 | provisional | https://github.com/topc-social/founderbot-tasks/issues/16 |
 
 ## Row 2 breakdown (rate card v2, 2026-10-11)
 
