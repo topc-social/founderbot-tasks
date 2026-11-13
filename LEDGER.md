@@ -79,8 +79,4 @@ Not included: the founderbot-v2 rewrite and the original v1 repo (neither is liv
 
 ## Backer claims
 
-Money put into Founderbot, shown next to Neki but never Neki. Each backer gets their money back plus up to 15% a year on what's still owed, paid only from Founderbot's profit, nothing if there's no profit (TOPC's NEKI.md, 2026-10-16). A row is added when money comes in, with proof.
-
-| Date | Backer | Pledged | Received | Link |
-|---|---|---|---|---|
-| 2026-11-12 | Kamal Khatwani | ₹3,000 a month, Nov 2026 – Apr 2027 (₹18,000), from his TOPC pot pledge | ₹0 | https://github.com/topc-social/topc-tasks/issues/118 |
+Money put into Founderbot is never Neki. Backers, pledges and payments live in `POT.md`, which Ideato's Money card reads.
