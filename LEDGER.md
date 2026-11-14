@@ -42,6 +42,8 @@ Units: 1 Neki = 1 rupee of work at market price (what a competent mid-level free
 | 34 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on #32: What founders say about distribution tools and getting users | 3,960 | provisional | https://github.com/kamal0808/founderbot/pull/18 |
 | 35 | 2026-11-13 | Kamal Khatwani | Idea (1%) for #33: Find 20 hot leads for GoStock to test lead-first distribution | 27 | provisional | https://github.com/topc-social/founderbot-tasks/issues/33 |
 | 36 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on #33: Find 20 hot leads for GoStock to test lead-first distribution | 2,673 | provisional | https://github.com/kamal0808/founderbot/pull/18 |
+| 37 | 2026-11-15 | Kamal Khatwani | Idea (1%) for #34: Finish the Startup Buildathon India 2026 entry for Founderbot Distribution | 12 | provisional | https://github.com/topc-social/founderbot-tasks/issues/34 |
+| 38 | 2026-11-15 | Kamal Khatwani (via Claude) | Work (99%) on #34: Finish the Startup Buildathon India 2026 entry for Founderbot Distribution | 1,188 | provisional | https://github.com/topc-social/founderbot-tasks/issues/34 |
 
 ## Row 2 breakdown (rate card v2, 2026-10-11)
 
